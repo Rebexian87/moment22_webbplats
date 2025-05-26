@@ -16,3 +16,32 @@
 .liheadmenu {
 display: inline-block; position: relative; padding: 8px;
 }
+
+body {
+    
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+li {
+    font-size: 1.4em;
+    padding: 0.1em;}
+
+    label {
+        font-size: 1.4em;
+        padding: 0.3em;
+        
+    }
+
+    input {
+    width: 14em;
+    margin-bottom: 0.2%;
+}
+
+button {
+    background-color: pink;
+    width: 8em;
+    margin-top: 1%;
+    height: 2em;
+    font-size: 1em;
+    
+}
